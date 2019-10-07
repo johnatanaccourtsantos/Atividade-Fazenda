@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"te",
+				"text-indent\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"backgou",
+				"background-image\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"cel",
+				"cellpadding\tAttr"
+			],
+			[
+				"img",
+				"img_girl"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"pro",
+				"professor"
+			],
+			[
+				"al",
+				"align\tAttr"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"e",
+				"enter"
+			],
+			[
+				"pol",
+				"poli"
+			],
+			[
+				"f",
+				"filo"
+			],
+			[
+				"de",
+				"DEFAULT"
+			],
+			[
+				"COD_CAT",
+				"COD_CAT"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"CNS",
+				"CONSTRAINT"
+			],
+			[
+				"COD",
+				"COD_CAD"
+			],
+			[
+				"NOME",
+				"NOME_GRAV"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"INT",
+				"INTO"
+			],
+			[
+				"CA",
+				"CADASTROS"
+			],
+			[
+				"id",
+				"id_vendedor"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"IN",
+				"INSERT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/johnatan.asantos/Desktop/TI92/aula07/estilo_sjf.css",
+			"settings":
+			{
+				"buffer_size": 2109,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hft_localizacao.html",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hft_preco.html",
+			"settings":
+			{
+				"buffer_size": 1924,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07 - Atvidade"
+	],
+	"file_history":
+	[
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/estilo_sjf.css",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/sjf_animais.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/sjf_precos.html",
+		"/C/Users/johnatan.asantos/Desktop/TESTE.sql",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07 - Atvidade/hft_area_interna.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07 - Atvidade/hft_area_externa.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07 - Atvidade/hft_preco.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07 - Atvidade/hft_localizacao.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/sjf_localizacao.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/sjf_area_interna.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula07/sjf_area_externa.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula06 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03/lista2.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula06/obrigado.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula05/Obelisco.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula05/capitolio.txt",
+		"/C/Users/johnatan.asantos/Desktop/aula04_dsa/tabela4.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula04/tabela4.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula04 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula 04 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03/ancora.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/orochimaru.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/madara.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/itachi.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/kakashi.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/kaguya.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/sasuke.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/Naruto_Uzumaki.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03 - Atividade/ancora.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03 - Atividade/lista3.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula03 - Atividade/lista2.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula01 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula02 - Atividade/index.html",
+		"/C/Users/johnatan.asantos/Desktop/TI92/aula02 - Atividade/pg2.html",
+		"/C/Users/johnatan.asantos/Documents/DATABASE_CDS.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Sistemas/Material de Apoio/Explicação TryCatch 07032019",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/mvmota/aula1.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Sistemas/Material de Apoio/estrutura de decisão",
+		"/C/Users/johnatan.asantos/Downloads/DATABASE_CDS.sql",
+		"/C/Users/johnatan.asantos/Documents/Johnatan/exercicio1.sql",
+		"/C/Users/johnatan.asantos/Documents/Johnatan/exercicio5.sql",
+		"/C/Users/johnatan.asantos/Documents/Johnatan/exercicio2.sql",
+		"/C/Users/johnatan.asantos/Documents/Johnatan/exercicio3.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/exercicio5.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/hubyhbn.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/aula1.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/exercicio1.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/exercicio3.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Johnatan/aula1.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/exercicio4.sql",
+		"/T/Cursos Tecnicos/TI92/UC9 até UC16/UC10/Alunos/Johnatan/exercicio2.sql"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"radio",
+			"</legend>",
+			";\">",
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/johnatan.asantos/Desktop/TI92/aula07/estilo_sjf.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1959,
+								1959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 1656.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hft_localizacao.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1250,
+								1250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hft_preco.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1173.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
